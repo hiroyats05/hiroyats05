@@ -20,6 +20,8 @@ Me chamo Samuel Hiroshi Pires Yatabe, tenho 17 anos e estou terminando o último
             src="https://custom-icon-badges.demolab.com/github/followers/hiroyats05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+<a href = "mailto:hiroshiyatabe2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-hiroshi-pires-yatabe-37049327a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ---
