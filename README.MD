@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end`**
 
-Me chamo Samuel Hiroshi Pires Yatabe, tenho 17 anos e estou terminando o último ano do ensino médio, trabalho em uma construtora cívil desenvolvendo e aprimorando o sistema deles, sou apaixonado por programação desde sempre e tive o incentivo familiar para vir para essa área, pretendo cursar Ciências da Computação. 
+Me chamo Samuel Hiroshi Pires Yatabe, tenho 17 anos e estou terminando o último ano do ensino médio, trabalho em uma construtora cívil desenvolvendo e aprimorando o sistema deles.
 
 <p align="left">
     </a> 
