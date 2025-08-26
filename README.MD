@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Samuel Hiroshi Pires Yatabe from Brazil<br><br>- 🔭 I’m working as Full-Stack Junior developer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play basketball and videogames</p>
+<p align="left">I'm Samuel Hiroshi Pires Yatabe from Brazil, jobing in a construction company that i did an ERP and maintenance<br><br>- 🔭 I’m working as Full-Stack Junior developer<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play basketball and videogames</p>
 
 ###
 
