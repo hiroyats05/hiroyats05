@@ -1,53 +1,56 @@
-<div aling="center">
-<h1> 👋 Hello, I'm Hiroshi Yatabe </h1>
+<h1 align="center">👋 Hello, I'm Hiroshi Yatabe </h1>
 
-###
+<p align="center">
+  👨‍💻 Desenvolvedor full-stack • 👨‍🎓 Futuro Cientista da computação • 🤖 Entusiasta de tech e IA
+</p>
 
-<div aling="center">
-<h4> 👨‍💻 Full-stack developer • 👨‍🎓 Future computer scientist • 🤖 Tech and AI enthusiast
+---
 
-###
+## 📖 Sobre mim
+<br>🎓 Iniciei o curso de **Técnico em Informática** mas não terminei o último período *(2023)*
+<br>🎓 Irei começar o Curso de ciência da computação em 2026
+<br>💼 Atuo como desenvolvedor na Label construtora desenvolvendo uma ERP
+<br>🚀 Aprimorando conhecimentos em **Java e JavaScript**
 
-<div aling="left">
-<h2> 📖 About me </h2>
-<h4>
-🎓 I started the computer technician course but I didn't finish the last period (2024) 
-🎓 Starting bachelor's degree in computer science in 2026
-💼 Working in Label Construtora developing a ERP (2025)
-👨‍🏫 Studying Java and JavaScript
-</h4>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
 
-<div aling="left">
-<h2> 🛠 Tools and Technologies </h2>
-<table>
-  <thead>
-    <tr>
-      <th> Development </th>
-      <th> Data Base </th>
-      <th> Tools </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-        <img width="12" />
-      </td>
-      <td> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-        <img width="12" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-        <img width="12" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-        <img width="12" />
-      </td>
-  </tbody>
+| Desenvolvimento | Banco de Dados | Ferramentas |
+| --------------- | -------------- | ----------- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
 
+---
 
+## 📅 Linha do Tempo
 
+**2023:** Início no curso técnico de informatica 
+**2025:** Início como **Desenvolvedor full-stack** na Label Construtora
+**Hoje:** Focado no desenvolvimento com **Python e JavaScript**
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiroyats05&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroyats05&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 Onde me encontrar
+<p align="left">
+  <a href="https://github.com/hiroyats05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-hiroshi-pires-yatabe-37049327a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/hiroshi_yats05/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+    <a href="https://discord.com/users/825735318199205888" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</p>
