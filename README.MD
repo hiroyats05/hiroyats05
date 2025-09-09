@@ -52,6 +52,6 @@
     <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
     <a href="https://discord.com/users/825735318199205888" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
