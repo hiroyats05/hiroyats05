@@ -27,6 +27,7 @@
 <br>**2023:** Início no curso técnico de informatica 
 <br>**2025:** Início como **Desenvolvedor full-stack** na Label Construtora
 <br>**Hoje:** Focado no desenvolvimento com **Python e JavaScript**
+<br>**2026:** Iniciarei no curso de Ciência da computação na UERJ
 
 ---
 
