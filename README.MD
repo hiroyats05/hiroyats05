@@ -8,7 +8,7 @@
 
 ## 📖 Sobre mim
 <br>🎓 Iniciei o curso de **Técnico em Informática** mas não terminei o último período *(2023)*
-<br>🎓 Irei começar o Curso de ciência da computação em 2026
+<br>🎓 Irei começar o Curso de ciência da computação em *2026*
 <br>💼 Atuo como desenvolvedor na Label construtora desenvolvendo uma ERP
 <br>🚀 Aprimorando conhecimentos em **Java e JavaScript**
 
