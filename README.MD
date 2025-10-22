@@ -8,7 +8,6 @@
 
 ## 📖 Sobre mim
 <br>🎓 Iniciei o curso de **Técnico em Informática** mas não terminei o último período *(2023)*
-<br>🎓 Irei começar o Curso de ciência da computação em *2026*
 <br>💼 Atuo como desenvolvedor na Label construtora desenvolvendo uma ERP
 <br>🚀 Aprimorando conhecimentos em **Node.js**
 
@@ -27,7 +26,6 @@
 <br>**2023:** Início no curso técnico de informatica 
 <br>**2025:** Início como **Desenvolvedor full-stack** na Label Construtora
 <br>**Hoje:** Focado no desenvolvimento com **Python e JavaScript**
-<br>**2026:** Iniciarei no curso de Ciência da computação na UERJ
 
 ---
 
