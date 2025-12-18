@@ -6,7 +6,7 @@ Desenvolvedor backend focado em arquitetura de software e sistemas reais.
 
 ### Tenho experiência para trabalhar com as linguagens:
 <p>
-  <img src="https://skillicons.dev/icons?i=python, javascript, typescript"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
 </p>
 
 ### no Backend eu atualmente trabalho com:
