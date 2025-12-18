@@ -1,30 +1,25 @@
 # Samuel Yatabe
 
-Backend Developer | Python | Node.js  
-Foco em arquitetura, organização de código e sistemas reais.
+Desenvolvedor backend focado em arquitetura de software e sistemas reais.
 
 ---
 
-## 🛠️ Stacks & Tecnologias
-
-### Linguagens
+### Tenho experiência para trabalhar com as linguagens:
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=python, javascript, typescript"/>
 </p>
 
-### Backend
+### no Backend eu atualmente trabalho com:
 <p>
   <img src="https://skillicons.dev/icons?i=flask,nodejs" />
 </p>
 
-### Banco de Dados
+### Os bancos de dados que eu costumo utilizar são:
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
 </p>
 
-### Ferramentas
+### as ferramentas que fazem parte do meu dia dia:
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,linux" />
 </p>
